@@ -13,6 +13,14 @@ If you find this repository helpful, please cite our paper [Pairwise Ranking Agg
 }
 ```
 
+---
+
+<p align="center">
+<img src="files/fig-1.png" width="800"/>
+</p>
+
+---
+
 ## Code Usage:
 
 The main() function is provided in the `main_SATD.cpp` file. The experiments in our ICDCS 2017 paper are finished by this function.
